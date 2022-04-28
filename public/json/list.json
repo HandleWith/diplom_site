@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Кайрон",
+        "type": "Диван",
+        "price": "1400руб.", 
+        "picture": "../public/img/kairon.jpg"
+    },
+    {
+        "name": "Бонс-Т",
+        "type": "Диван",
+        "price": "1200руб.", 
+        "picture": "../public/img/bons-T.jpg"
+    },
+    {
+        "name": "Лачи",
+        "type": "Диван",
+        "price": "1100руб.", 
+        "picture": "../public/img/lachi.jpg"
+    },
+    {
+        "name": "Лиери",
+        "type": "Диван",
+        "price": "1600руб.", 
+        "picture": "../public/img/leri.jpg"
+    },
+    {
+        "name": "Маркфул",
+        "type": "Диван",
+        "price": "1700руб.", 
+        "picture": "../public/img/markful.jpg"
+    },
+    {
+        "name": "Напа",
+        "type": "Диван",
+        "price": "1150руб.", 
+        "picture": "../public/img/napa.jpg"
+    },
+    {
+        "name": "Нумо-мини",
+        "type": "Диван",
+        "price": "1250руб.", 
+        "picture": "../public/img/numo-mini.jpg"
+    },
+    {
+        "name": "Виена",
+        "type": "Диван",
+        "price": "1550руб.", 
+        "picture": "../public/img/viena.jpg"
+    },
+    {
+        "name": "Сваут",
+        "type": "Диван",
+        "price": "1340руб.", 
+        "picture": "../public/img/swaut.jpg"
+    }
+]
